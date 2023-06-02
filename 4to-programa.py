@@ -8,3 +8,5 @@ print("la cantidad es: ")
 print(cantidad)
 print("Vas a pagar: ")
 print(precio * cantidad)
+
+
