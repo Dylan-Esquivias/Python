@@ -1,8 +1,11 @@
 """
+git status
 git add .
 git commit -am ""  
 git push origin main
 
 estos comandos son para guardar los archivos, después agregar un comentario sin abrir el block de notas
 y después mandarlo a git
+
+el git status es para saber las actualizaciones.
 """
